@@ -4,7 +4,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 
 // Intermediate Game Development Lab 3 Sub-Assignment 1.
-//Written by Carl Bowne and John(? Place full name here please.)
+//Written by Carl Bowne and Jacob Dreyer
 
 public class LabScript_1 : MonoBehaviour
 {
